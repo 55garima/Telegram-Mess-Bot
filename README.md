@@ -19,7 +19,7 @@ First Interaction - Bot Start | Food Court - OAC Menu
 
 To get started with the College Mess Querying Telegram Bot, follow these steps:
 
-1. Clone the repository: `git clone `
+1. Clone the repository: `git clone https://github.com/55garima/Telegram-Mess-Bot?tab=readme-ov-file`
 2. Install dependencies: `npm install`
 3. Configure the bot token: Replace `BOT_TOKEN` in `.env` file with your Telegram bot token.
 4. Build the TypeScript code: `npm run build` or 'tsc'
